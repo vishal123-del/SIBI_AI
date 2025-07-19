@@ -105,5 +105,5 @@ GROQ_API_KEY=your_groq_api_key
 
 ## 🧑‍💻 Author
 
-**Sharavanakumar Ramalingam**  
+**Vishal Dhanapaul**  
 > Developed as part of an educational AI initiative.
